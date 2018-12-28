@@ -1,0 +1,15 @@
+body{  background-color: #c8e9db;}
+h3{  color: blue;}
+hr{
+  border-color: white;
+}
+head{color: yellow;}
+
+.menu{color: yellow;}
+.senior{ background-color: white;}
+
+a:active{background-color:  yellow;}
+
+a:hover{background-color: white;}
+
+a:visited{background-color: blue;}
